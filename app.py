@@ -10,7 +10,7 @@ def homepage():
     <h1>Hello heroku</h1>
     <p>It is currently {time}.</p>
 
-    <img src="http://loremflickr.com/400/240/tennis" />
+    <img src="http://loremflickr.com/600/320/tennis" />
     """.format(time=the_time)
 
 if __name__ == '__main__':
